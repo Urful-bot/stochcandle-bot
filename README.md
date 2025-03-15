@@ -203,7 +203,7 @@
         <!-- Контакты -->
         <section class="contact" id="contact">
             <h2>Свяжитесь с нами</h2>
-            <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
+            <form action="pronin.68.nikolay@gmail.com" method="post" enctype="text/plain">
                 <input type="text" name="name" placeholder="Ваше имя" required>
                 <input type="email" name="email" placeholder="Ваш email" required>
                 <textarea name="message" placeholder="Ваше сообщение" rows="5" required></textarea>
